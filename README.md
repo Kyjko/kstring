@@ -1,3 +1,3 @@
 # kstring
 
-A lightweight header-only c library for working with strings.
+An ultra-lightweight basic header-only c library for working with strings.
